@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlToJson", "XmlToJson\XmlToJson.csproj", "{BD167BEE-D5F7-4124-A2D6-5DC29ECE889A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonToXml", "JsonToXml\JsonToXml.csproj", "{CE7B2CD2-77A7-49C2-8B5B-07F772FA99CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD167BEE-D5F7-4124-A2D6-5DC29ECE889A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD167BEE-D5F7-4124-A2D6-5DC29ECE889A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD167BEE-D5F7-4124-A2D6-5DC29ECE889A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD167BEE-D5F7-4124-A2D6-5DC29ECE889A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7B2CD2-77A7-49C2-8B5B-07F772FA99CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7B2CD2-77A7-49C2-8B5B-07F772FA99CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7B2CD2-77A7-49C2-8B5B-07F772FA99CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7B2CD2-77A7-49C2-8B5B-07F772FA99CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E04DD3-0957-49F4-92D0-23E5B760C262}
+	EndGlobalSection
+EndGlobal
